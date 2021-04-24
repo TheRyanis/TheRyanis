@@ -16,8 +16,5 @@
 ## Where did i participated in ?
 - ⚛️[QxQ](https://www.qubitbyqubit.org/programs) Quantum Computing Program 
 - 🔌[OpenLab](https://openlab.sk/) Developing Websites for a Company
-- 💻Google Kickstart 2021
-
-## My buddy that taught me how to program
-- [blueshark](https://github.com/blueshark42#hi-there-) 
+- 💻Google Kickstart 2021 
 
