@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Adam - aka TheRyan👋
 
-<!--
-**TheRyanis/TheRyanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Young Programmer, Developer!
+- ⚛️Studying Quantum 
+- 💻Software Developer
+- 🔌Developing Websites 
 
-Here are some ideas to get you started:
+## I am capable program in these languages
+- 🔭C++
+- 🧬UE4
+- 🔬JS
+- ⚗️Qiskit
+- 📡PHP
+- 🐍Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where did i participated in ?
+- ⚛️[QxQ](https://www.qubitbyqubit.org/programs) Quantum Computing Program 
+- 🔌[OpenLab](https://openlab.sk/) Developing Websites for a Company
+- 💻Google Kickstart 2021
+
+## My buddy that taught me how to program
+- [blueshark](https://github.com/blueshark42#hi-there-)
+
+
+
+->
