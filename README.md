@@ -19,8 +19,5 @@
 - 💻Google Kickstart 2021
 
 ## My buddy that taught me how to program
-- [blueshark](https://github.com/blueshark42#hi-there-)
+- [blueshark](https://github.com/blueshark42#hi-there-) 
 
-
-
-->
