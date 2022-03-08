@@ -10,8 +10,8 @@
 - 🧬UE4
 - 🔬JS
 - ⚗️Qiskit
-- 📡PHP
 - 🐍Python
+- C#
 
 ## Where did i participated in ?
 - ⚛️[QxQ](https://www.qubitbyqubit.org/programs) Quantum Computing Program 
