@@ -12,6 +12,7 @@
 - ⚗️Qiskit
 - 🐍Python
 - C#
+- Kali Linux (Ethical Hacking)
 
 ## Where did i participated in ?
 - ⚛️[QxQ](https://www.qubitbyqubit.org/programs) Quantum Computing Program 
