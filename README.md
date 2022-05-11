@@ -4,6 +4,8 @@
 - ⚛️Studying Quantum 
 - 💻Software Developer
 - 🔌Developing Websites 
+- 👾CyberSecurity
+- 🕵️‍♂️Ethical Hacker
 
 ## I am capable program in these languages
 - 🔭C++
@@ -18,4 +20,7 @@
 - ⚛️[QxQ](https://www.qubitbyqubit.org/programs) Quantum Computing Program 
 - 🔌[OpenLab](https://openlab.sk/) Developing Websites for a Company
 - 💻Google Kickstart 2021 
+- 👨‍💻CyberGames 2022 Slovakia
+- 💂‍♂️Guardians 2021
+- 💫Zenit 2021
 
