@@ -7,7 +7,7 @@
 - 👾CyberSecurity
 - 🕵️‍♂️Ethical Hacker
 
-## I am capable program/work with in these languages
+## I am capable program in these languages
 - 🔭C++
 - 🧬UE4
 - 🔬JS
